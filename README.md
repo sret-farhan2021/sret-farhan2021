@@ -11,7 +11,7 @@
 
 <h3 align="left">🌟 About Me:</h3>
 <p align="left">
-I'm Mohammed Farhan K, a highly motivated Fullstack Developer with a strong background in developing responsive and modern web applications. Currently in my final year of B.Tech in Computer Science at Sri Ramachandra Engineering and Technology, I have a CGPA of above 7.5. My technical expertise includes a range of modern technologies such as Angular, React, Node.js, Express.js, and more. I have a passion for creating efficient and scalable web solutions, and I enjoy working on challenging projects that allow me to grow and learn continuously.
+I'm Mohammed Farhan K, a highly motivated Fullstack Developer with a strong background in developing responsive and modern web applications. Currently working in Fyle(Sage) as a MTS-I of Frontend team covering a wide range from Angular to JS to Ionic. My technical expertise includes a range of modern technologies such as Angular, React, Node.js, Express.js, and more. I have a passion for creating efficient and scalable web solutions, and I enjoy working on challenging projects that allow me to grow and learn continuously.
 </p>
 
 <h3 align="left">🔧 Skills & Tools:</h3>
